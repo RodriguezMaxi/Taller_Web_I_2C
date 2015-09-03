@@ -1,23 +1,23 @@
 package ar.edu.unlam.tallerweb.Tarea1;
 
 public class Cuadrado {
-private int lado;
+private Double lado;
 	
 	public Cuadrado(){
-		this.lado=0;
+		this.lado=0.0;
 	}
 	
-	public Cuadrado(int valor){
+	public Cuadrado(Double valor){
 		this.lado=valor;
 	}
 	
-	public int perimetro(int lado){
-		int perimetro = lado * 4;
+	public Double perimetro(Double lado){
+		Double perimetro = lado * 4;
 		return perimetro;
 	}
 	
-	public int superficie(int lado){
-		int superficie = lado * lado;
+	public Double superficie(Double lado){
+		Double superficie = lado * lado;
 		return superficie;
 	}
 }
