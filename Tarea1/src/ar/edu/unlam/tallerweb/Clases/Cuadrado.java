@@ -1,4 +1,4 @@
-package ar.edu.unlam.tallerweb.Tarea1;
+package ar.edu.unlam.tallerweb.Clases;
 
 public class Cuadrado {
 private Double lado;
