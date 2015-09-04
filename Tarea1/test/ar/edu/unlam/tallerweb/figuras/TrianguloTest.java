@@ -1,8 +1,8 @@
-package ar.edu.unlam.tallerweb.Test;
+package ar.edu.unlam.tallerweb.figuras;
 
 import org.junit.Assert;
 
-import ar.edu.unlam.tallerweb.Clases.Triangulo;
+import ar.edu.unlam.tallerweb.figuras.Triangulo;
 
 
 

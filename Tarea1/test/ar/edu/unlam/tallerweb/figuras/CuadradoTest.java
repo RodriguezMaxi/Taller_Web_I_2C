@@ -1,9 +1,9 @@
-package ar.edu.unlam.tallerweb.Test;
+package ar.edu.unlam.tallerweb.figuras;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import ar.edu.unlam.tallerweb.Clases.Cuadrado;
+import ar.edu.unlam.tallerweb.figuras.Cuadrado;
 
 public class CuadradoTest {
 
